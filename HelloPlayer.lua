@@ -1,5 +1,3 @@
-print("Hello " .. UnitName("player"));
-
 SLASH_RELOADUI1 = "/rl" --For quicker reloading
 SlashCmdList.RELOADUI = ReloadUI
 
